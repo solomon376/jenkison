@@ -1,12 +1,28 @@
-# React + Vite
+# Project Submission
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*Project Title:* Jenkison Sea Life  
+*Submitted by:* Eze Kelechi Solomon  
 
-Currently, two official plugins are available:
+This zip file contains *both the source code and the compiled (built) code* for the React project, along with additional supporting materials.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contents
 
-## Expanding the ESLint configuration
+- *Source Code*  
+  Located in:  
+  - src/ → React components and application logic  
+  - public/ → static assets (images, icons, etc.)  
+  - package.json & package-lock.json → project dependencies and scripts  
+  - node_modules/ → all installed project dependencies (included for convenience)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- *Compiled (Built) Code*  
+  Located in:  
+  - dist/ or build/ (depending on setup) → production-ready, compiled application generated using npm run build
+
+- *Additional Files*  
+  - *Project Report* (.docx format) → includes acknowledgment, project synopsis, analysis, and additional details about the development process  
+  - *Video Recording* → a screen capture/video walkthrough demonstrating the website in action
+
+## Notes
+
+- Since node_modules/ is included, you can run the project directly without needing to install dependencies — but if needed, you can still run npm install to refresh the environment.  
+- The compiled code is fully generated and ready for deployment.
